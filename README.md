@@ -1,3 +1,5 @@
+# DEVELOPMENT MOVED TO GITLAB https://gitlab.com/vojta.klos/pickathing
+
 # pickathing
 Simple select written in Vanilla JS
 
